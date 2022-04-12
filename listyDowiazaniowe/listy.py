@@ -71,9 +71,6 @@ class LinkedList:
 
         return l3
 
-        
-
-  
 
 
 l=LinkedList()
